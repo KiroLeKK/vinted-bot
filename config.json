@@ -1,0 +1,19 @@
+{
+    "token": "OTUxOTg5NDcwMzIyOTEzMzcw.YivfSA.meOiLPbZRhxjKYcqEewA_tC8aaM",
+    "prefix": "$",
+    "status": "Dev by 2$py#6495",
+    "suburl": {
+        "https://www.vinted.fr/vetements?search_text=nike&size_id[]=207&size_id[]=208&size_id[]=209&size_id[]=210&brand_id[]=53&currency=EUR&price_to=20&order=newest_first&catalog[]=1811&catalog[]=267": {
+            "channel": 951986854759137300
+        },
+        "https://www.vinted.fr/vetements?search_text=nike&size_id[]=207&size_id[]=208&size_id[]=209&size_id[]=210&brand_id[]=53&currency=EUR&price_to=20&order=newest_first&catalog[]=1812": {
+            "channel": 951987579845226557
+        },
+        "https://www.vinted.fr/vetements?search_text=nike&size_id[]=207&size_id[]=208&size_id[]=209&size_id[]=210&brand_id[]=53&currency=EUR&price_to=35&order=newest_first&catalog[]=1812": {
+            "channel": 951987579845226557
+        },
+        "https://www.vinted.fr/vetements?search_text=nike&size_id[]=207&size_id[]=208&size_id[]=209&size_id[]=210&brand_id[]=53&currency=EUR&price_to=35&order=newest_first&catalog[]=1811&catalog[]=267": {
+            "channel": 951986854759137300
+        }
+    }
+}
